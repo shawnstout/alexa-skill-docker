@@ -1,0 +1,5 @@
+flask
+flask-ask-sdk
+certvalidator
+oscrypto
+gunicorn

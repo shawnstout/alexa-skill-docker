@@ -1,0 +1,4 @@
+tunnels:
+  http:
+    proto: http
+    addr: 8080
